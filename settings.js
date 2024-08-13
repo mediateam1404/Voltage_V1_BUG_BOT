@@ -9,7 +9,7 @@ global.socialm = "GitHub: VoltageLord"
 global.location = "Nigeria, Edo, Benin"
 
 global.ownernumber = '2348187637779'  //creator number
-global.ownername = 'Voltage Lord' //owner name
+global.ownername = '𝔼𝕊 𝕋𝔼𝔸𝕄𝕊' //owner name
 global.botname = '𝔼𝕊 𝕋𝔼𝔸𝕄𝕊-𝕍3👑█' //name of the bot
 
 //sticker details
